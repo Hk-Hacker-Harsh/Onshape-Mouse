@@ -14,7 +14,7 @@ FORMAT=text;
 GUISE=transmit;
 KEY=BTGapi::writeModels_.xmt;
 FILE=BTGapi::writeModels_.xmt;
-DATE=2025-07-08T16:17:57 (UTC);
+DATE=2025-07-09T02:27:43 (UTC);
 **PART2;
 SCH=SCH_3700209_36001;
 USFLD_SIZE=0;
